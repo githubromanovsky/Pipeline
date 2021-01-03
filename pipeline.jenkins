@@ -1,11 +1,13 @@
 pipeline {
     agent any
-    stages(2) {
+    stages {
+        stage('hhh'){
         steps {
                 echo 'Hi, itisgood. Starting to build the App.'
         }
     }  
             
+}
 }
                 
 
