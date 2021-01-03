@@ -1,10 +1,10 @@
-pipeline{
+pipeline {
     stage("A"){
         steps{
             echo "AA"
         }
         
-            }
+     }
     
-        }
+}
     
