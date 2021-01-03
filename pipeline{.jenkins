@@ -1,7 +1,7 @@
 pipeline{
     stage("A"){
         steps{
-            echo "AAA"
+            echo "AA"
         }
         post{
             always{
